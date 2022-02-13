@@ -1,0 +1,5 @@
+{
+    "API_URL": "https://qatartubebackend.tarikadmin35.repl.co",
+    "UPLOAD_IMG_URL": "https://api.cloudinary.com/v1_1/qatar-tube/image/upload",
+    "logo": "https://res.cloudinary.com/qatar-tube/image/upload/v1625427505/logo.png"
+}
